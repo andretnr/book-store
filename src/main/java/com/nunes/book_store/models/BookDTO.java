@@ -5,7 +5,7 @@ import lombok.Builder;
 @Builder
 public class BookDTO {
 
-    //make a java object that represents a book
+    // make a java object that represents a book
     private Long id;
     private String title;
     private String author;
